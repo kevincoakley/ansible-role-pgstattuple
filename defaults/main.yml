@@ -1,2 +1,2 @@
 ---
-# defaults file for ansible-role-pgstattuple
+pgstattuple_postgresql_10_repo_url: https://download.postgresql.org/pub/repos/yum/10/redhat/rhel-7-x86_64/pgdg-centos10-10-2.noarch.rpm
